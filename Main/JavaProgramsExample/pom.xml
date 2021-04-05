@@ -11,10 +11,10 @@
   </parent>
 
   <groupId>com.kk</groupId>
-  <artifactId>javaprogramsexample</artifactId>
+  <artifactId>JavaProgramsExample</artifactId>
   <version>1.0</version>
 
-  <name>javaprogramsexample</name>
+  <name>JavaProgramsExample</name>
  
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

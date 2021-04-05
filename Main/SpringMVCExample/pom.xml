@@ -12,11 +12,11 @@
   	</parent>
 
 	<groupId>com.kk</groupId>
-	<artifactId>springmvcexample</artifactId>
+	<artifactId>SpringMVCExample</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
 
-	<name>springmvcexample</name>
+	<name>SpringMVCExample</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

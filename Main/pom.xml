@@ -19,10 +19,10 @@
 
 	<!-- sub modules -->
 	<modules>
-		<module>javaprogramsexample</module>
-		<module>springaop</module>
-		<module>springmvcexample</module>
-		<module>springbasicexample</module>
+		<module>JavaProgramsExample</module>
+		<module>SpringAOP</module>
+		<module>SpringMVCExample</module>
+		<module>SpringBasicExample</module>
 		<module>springbootbasic</module>
 	</modules>
 

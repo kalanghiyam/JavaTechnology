@@ -12,10 +12,10 @@
   	</parent>
 	
 	<groupId>com.kk.spring</groupId>
-	<artifactId>springbasicexample</artifactId>
+	<artifactId>SpringBasicExample</artifactId>
 	<version>1.0</version>
 
-	<name>springbasicexample</name>
+	<name>SpringBasicExample</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
