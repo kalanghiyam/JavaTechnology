@@ -23,7 +23,7 @@
 		<module>SpringAOP</module>
 		<module>SpringMVCExample</module>
 		<module>SpringBasicExample</module>
-		<module>springbootbasic</module>
+		<module>SpringBootBasic</module>
 	</modules>
 
 </project>
