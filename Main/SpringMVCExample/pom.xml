@@ -12,11 +12,11 @@
   	</parent>
 
 	<groupId>com.kk</groupId>
-	<artifactId>spring-mvc-example</artifactId>
+	<artifactId>springmvcexample</artifactId>
 	<version>1.0</version>
 	<packaging>war</packaging>
 
-	<name>spring-mvc-example Maven Webapp</name>
+	<name>springmvcexample</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -55,6 +55,6 @@
 	</dependencies>
 
 	<build>
-		<finalName>spring-mvc-example</finalName>
+		<finalName>springmvc</finalName>
 	</build>
 </project>
