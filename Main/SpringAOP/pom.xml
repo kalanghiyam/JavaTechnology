@@ -12,10 +12,10 @@
   	</parent>
   
 	<groupId>com.kk</groupId>
-	<artifactId>springaop</artifactId>
+	<artifactId>SpringAOP</artifactId>
 	<version>1.0</version>
 
-	<name>springaop</name>
+	<name>SpringAOP</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
